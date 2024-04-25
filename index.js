@@ -14,8 +14,7 @@ const mcClient = bedrock.createClient({
   //port: 15558,      // optional, port to bind to, default 19132
   host: IP,
   port: PORTS,
-  offline: false,
-  username: 'h'   // Any profile name, only used internally for account caching when in online mode. In offline mode, the username to connect with.
+  offline: false
 })
 
 // Express endpoint to serve HTML page
