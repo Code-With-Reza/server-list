@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "bedrock-protocol": "^3.36.0"
+    "dependencies": {
+      "bedrock-protocol": "^3.33.1",
+      "express": "^4.18.2",
+      "socket.io": "^4.7.2"
+    }
   }
-}
+  
